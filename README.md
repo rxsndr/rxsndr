@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, Welcome! 👋
 
-<!--
-**rxsndr/rxsndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!👋 My Name is **Rexsander Torres**. I am from **University of Caloocan City**, pursuing a degree in **BS Entertainment Multimedia Computing**.🏫
 
-Here are some ideas to get you started:
+I have a huge interest in Web developing🖥, Application development📱, and coding as well🧑‍💻. I'm currently learning Java and Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I’m currently working on this page
+- 🌱 I’m currently learning **Java** and **Dart**
+- 👯 I’m looking to collaborate on **Project Collabs**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: Whenever there's a new person who mentions my name, they call me **Alexander**.
+
+Feel free to reach out if you want to connect or collaborate on exciting projects!
